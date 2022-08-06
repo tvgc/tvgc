@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thales Victor
 - 👀 I’m interested in programming frontend
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me thales.v.gc@hotmail.com
 
 <!---
